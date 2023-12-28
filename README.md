@@ -14,8 +14,8 @@ This is a simple file scanner application built with PyQt5. The application allo
 2. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/mohammednabarawy/desktop-organizer.git
+   cd desktop-organizer
    ```
 
 3. Install the required Python packages:
